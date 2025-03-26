@@ -1,6 +1,6 @@
 # FIFA World Cup Dashboard - Balkarn Singh
-# Hosted at: [INSERT_YOUR_RENDER_LINK_HERE]
-# Password: [INSERT_PASSWORD_IF_ANY]
+# Hosted at: https://cp321-assignment-7.onrender.com
+# Password: None
 
 import pandas as pd
 import plotly.express as px
